@@ -1,0 +1,23 @@
+[
+  {
+    "number": 12,
+    "title": "Login button crashes on mobile",
+    "body": "The app fails after tapping login on iOS.",
+    "labels": ["bug"],
+    "updated_at": "2026-05-01T12:00:00Z"
+  },
+  {
+    "number": 15,
+    "title": "Add dark mode",
+    "body": "Please support a dark theme for the dashboard.",
+    "labels": ["feature"],
+    "updated_at": "2026-06-01T12:00:00Z"
+  },
+  {
+    "number": 18,
+    "title": "README typo in install guide",
+    "body": "The command example has a typo.",
+    "labels": ["docs"],
+    "updated_at": "2026-05-28T12:00:00Z"
+  }
+]
