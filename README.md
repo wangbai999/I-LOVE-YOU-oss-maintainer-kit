@@ -69,3 +69,7 @@ Please report security issues privately by following [SECURITY.md](SECURITY.md).
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
+## Maintainer Notes
+
+This project is actively maintained as a small open source toolkit for improving issue triage, pull request preparation, release note drafting, and repository health checks. Future versions will focus on GitHub API integration, structured JSON output, and better automation examples for maintainers.
